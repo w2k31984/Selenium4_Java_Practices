@@ -1,0 +1,5 @@
+-Videos de la practica:
+https://www.youtube.com/watch?v=HjYEjKWSbe8&list=PLhW3qG5bs-L_8bwNnMHdJ1Wq5M0sUmpSH&index=1
+
+-Sitio de practica de automatizacion:
+https://trytestingthis.netlify.app/
